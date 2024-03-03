@@ -51,7 +51,7 @@ Welcome aboard our exploration journey! Let's dive into the crystal-clear waters
    - An 'srs' folder with source files for the initial project stages.
    - The main directory, which includes:
      - The 'app.py' file, the Flask application for the project.
-     - 'climate_resources.ipynb', the Jupyter Notebook for the initial climate analysis.
+     - 'hawaii_resources.ipynb', the Jupyter Notebook for the initial climate analysis.
 
 4. Fire up Jupyter Notebook for data analysis and ride the wave of exploration.
 5. Get ready to surf the web as you run the Flask app to access the API. 🏄‍♂️
