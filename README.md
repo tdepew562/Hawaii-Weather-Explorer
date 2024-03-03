@@ -55,11 +55,7 @@ Welcome aboard our exploration journey! Let's dive into the crystal-clear waters
 
 4. Fire up Jupyter Notebook for data analysis and ride the wave of exploration.
 5. Get ready to surf the web as you run the Flask app to access the API. 🏄‍♂️
-
-## Credits
-- Big mahalo to Berkely Data Analytics and UC Berkeley Extension for providing code snippets and resources that make this project a tropical delight!
-- ChatGPT for providing assistance and guidance during the development of these projects.
-
+6. 
 ## Credits
 - Big mahalo to Berkely Data Analytics and UC Berkeley Extension for their support in crafting this tropical getaway of a project!
 - Shoutout to ChatGPT for providing assistance and guidance during the development of these projects.
