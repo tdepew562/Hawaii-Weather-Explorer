@@ -56,6 +56,9 @@ Welcome aboard our exploration journey! Let's dive into the crystal-clear waters
 4. Fire up Jupyter Notebook for data analysis and ride the wave of exploration.
 5. Get ready to surf the web as you run the Flask app to access the API. 🏄‍♂️
 
+## References
+- Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910. [Link](https://journals.ametsoc.org/view/journals/atot/29/7/jtech-d-11-00103_1.xml)
+
 ## Credits
 - Big mahalo to Berkely Data Analytics and UC Berkeley Extension for their support in crafting this tropical getaway of a project!
 - Shoutout to ChatGPT for providing assistance and guidance during the development of these projects.
